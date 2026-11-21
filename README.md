@@ -6,4 +6,6 @@ Features:
 - original behavior for the popup to stop fading out on mouseover
 - fully Edit Mode compatible
 - individual popup options (in edit mode) like on/off/movable popup/scale/duration/effect intensity/sound on or off/preview first try or 2+ tries
-- test mode via /rarity test [mount/pet/toy] [first]  
+- test mode via /rarity test [mount/pet/toy] [first]
+- custom tga icons for /rarity test and edit mode previews
+- sound fallback as "Level Up" for ERA / TBC clients that doesn't support achievements
